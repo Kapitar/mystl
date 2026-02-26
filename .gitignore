@@ -2,3 +2,5 @@ build/
 *.o
 *.obj
 .DS_Store
+.vscode
+cmake-build-debug
